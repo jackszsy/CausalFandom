@@ -27,11 +27,8 @@ def variable_list(in_key):
         'moderate_listener',
         'super_listener'
     ]
-    id_info = [
-        'artist_gid',
-        'user_id',
-        'date',
-    ]
+    # Hide internal variables
+    id_info = []
     pre1names = [
         'saves_pre_period_1',
         'follows_pre_period_1',
