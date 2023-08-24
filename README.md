@@ -18,15 +18,18 @@ finding which behaviour caused the reward (or any part of the state) to change.
 
 ## Folder Structure
 This project is plit into four steps, the code of each are as following.
-- `step1/` contains all code for step 1
+- `step1` contains all code for step 1
 - `step2&3` contains all code for step 2 and step 3
 - `step4` contains all code for step 4
 - `extra` contains all code for extra step
 
 ## Usage Instructions
 - `./step1/step1_instructions.ipynb` is the instructions to get the result of step1
+- `./step1/datatool.py` contains the tools for analysing in step1
 - `./step2&3/step2_3_instructions.ipynb` is the instructions to get the result of step2 and step3
+- `./step2&3/func.py` contains the tools for analyzing in step2 and step3
 - `./step4/step4_instructions.ipynb` is the instructions to get the result of step4
+- `./step4/fun.py` contains the tools for analyzing in step4
 - `./extra/step5_reinforcement_learning.ipynb` is the instructions to get the result of extra step
 
 ## File Structure
